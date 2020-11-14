@@ -1,0 +1,42 @@
+Altium Designer Pick and Place Locations
+D:\USER\Desktop\可怕的AD\19-11-21 电源管理\LM2596(5v) V1.1\Project Outputs for LM2596(CAN+%5V)\Pick Place for demo V1.1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       09/11/20
+Time:       18:06
+Revision:   0
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer    Footprint                    Center-X(mil) Center-Y(mil) Rotation Description               
+P12        BM02B-GHS-TBT      TopLayer JST_BM02B-GHS-TBT            2145.000      3525.000      0        BM02B-GHS-TBT             
+P9         BM02B-GHS-TBT      TopLayer JST_BM02B-GHS-TBT            1360.033      3525.000      0        BM02B-GHS-TBT             
+U1         LM2596             TopLayer TO263-5                      2317.847      2356.929      270                                
+S1         Device Name        TopLayer SWITCH__Rocker_3-21.4x15     1380.000      1610.000      270      船型开关                      
+L1         Device Name        TopLayer INDC_SMDP_7447709(12X12X10)  2120.000      1800.000      270      Inductor SMD Power        
+R2         1.2KΩ              TopLayer 0603_R                       1670.000      625.000       360      贴片电阻                      
+R1         4.7KΩ              TopLayer 0603_R                       1237.870      2820.000      360      贴片电阻                      
+P14        XH2.54-2           TopLayer XH2.54_2AW                   1360.000      340.000       180      XH2.54-2                  
+P13        XH2.54-2           TopLayer XH2.54_2AW                   1750.000      340.000       180      XH2.54-2                  
+P11        XH2.54-2           TopLayer XH2.54_2AW                   2140.000      340.000       180      XH2.54-2                  
+P10        XT60-P             TopLayer XT60-P                       532.756       2414.961      180      XT Connector              
+P8         XH2.54-2           TopLayer XH2.54_2AW                   2405.000      1125.000      270      XH2.54-2                  
+P6         XT60-P             TopLayer XT60-P                       532.756       645.039       180      XT Connector              
+P5         XH2.54-2           TopLayer XH2.54_2AW                   2405.000      675.000       270      XH2.54-2                  
+P3         XT60-P             TopLayer XT60-P                       532.756       1207.638      180      XT Connector              
+P2         XT60-P             TopLayer XT60-P                       532.756       1784.961      180      XT Connector              
+P1         XT60-P             TopLayer XT60-P                       532.756       3194.961      180      XT Connector              
+D4         Device Name        TopLayer LED_0805_G                   1855.000      627.000       360      LED Green                 
+D3         Device Name        TopLayer LED_0805_R                   1240.000      2630.000      180      LED Red                   
+D2         SS510              TopLayer DIODE_SMA(DO-214AC)          1895.000      2510.000      90       Diode Schottky            
+D1         SS56               TopLayer DIODE_SMA(DO-214AC)          1250.000      2140.000      0        Diode Rectifier           
+C5         xxuF/xxV/Footprint TopLayer CAP_MLCC_0603                1690.000      1015.000      270      CAP MLCC                  
+C4         xxuF/xxV/Footprint TopLayer CAP_MLCC_0603                1695.000      3002.000      0        CAP MLCC                  
+C3         xxuF/xxV/Footprint TopLayer CAP_MLCC_0603                1525.000      3002.000      0        CAP MLCC                  
+C2         Device Name        TopLayer CAP_Elec_5.0-10.0X20.0(φ0.6) 1980.000      1093.425      90       CAP Aluminum Electrolytic 
+C1         Device Name        TopLayer CAP_Elec_5.0-10.0X20.0(φ0.6) 2101.575      2950.000      0        CAP Aluminum Electrolytic 
+P15        XH2.54-2           TopLayer XH2.54_2AW                   2455.000      3170.000      270      XH2.54-2                  
+P4         BM02B-GHS-TBT      TopLayer JST_BM02B-GHS-TBT            1883.344      3525.000      0        BM02B-GHS-TBT             
+P7         BM02B-GHS-TBT      TopLayer JST_BM02B-GHS-TBT            1621.689      3525.000      0        BM02B-GHS-TBT             

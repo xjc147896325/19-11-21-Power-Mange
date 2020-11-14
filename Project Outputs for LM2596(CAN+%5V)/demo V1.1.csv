@@ -1,0 +1,16 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"Device Name","CAP Aluminum Electrolytic","C1, C2","CAP Elec 5.0-10.0X20.0(φ0.6)","CAP Elec","2"
+"xxuF/xxV/Footprint","CAP MLCC","C3, C4, C5","CAP MLCC 0603","CAP MLCC","3"
+"SS56","Diode Rectifier","D1","DIODE SMA(DO-214AC)","Diode Rectifier","1"
+"SS510","Diode Schottky","D2","DIODE SMA(DO-214AC)","Diode Schottky","1"
+"Device Name","LED Red","D3","LED_0805_R","LED Red","1"
+"Device Name","LED Green","D4","LED_0805_G","LED Green","1"
+"Device Name","Inductor SMD Power","L1","INDC SMDP 7447709(12X12X10)","Inductor SMD Power","1"
+"XT60-P","XT Connector","P1, P2, P3, P6, P10","XT60-P","XT60-P","5"
+"BM02B-GHS-TBT","BM02B-GHS-TBT","P4, P7, P9, P12","JST BM02B-GHS-TBT","JST BM02B-GHS-TBT","4"
+"XH2.54-2","XH2.54-2","P5, P8, P11, P13, P14, P15","XH2.54_2AW","XH2.54-2","6"
+"4.7KΩ","贴片电阻","R1","0603_R","0603 4.7KΩ (4701) 1%","1"
+"1.2KΩ","贴片电阻","R2","0603_R","0603 1.2KΩ (1201) 1%","1"
+"Device Name","船型开关","S1","SWITCH  Rocker 3-21.4x15","Switch Rocker","1"
+"LM2596","","U1","TO263-5","LM2596","1"
